@@ -7,20 +7,20 @@
   },
   {
     "id": 2,
-    "name": "Computer",
+    "name": "iPhone",
+    "price": 5999.99,
+    "imgUrl": "/imgs/iphone.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "MacBook",
     "price": 6999.99,
     "imgUrl": "/imgs/MacBook-Pro.jpeg"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Banana",
     "price": 3.99,
     "imgUrl": "/imgs/banana.jpeg"
-  },
-  {
-    "id": 4,
-    "name": "phone",
-    "price": 5999.99,
-    "imgUrl": "/imgs/iphone.jpeg"
   }
 ]
